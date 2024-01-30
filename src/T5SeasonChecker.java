@@ -1,4 +1,4 @@
-public class SeasonChecker {
+public class T5SeasonChecker {
     public static void main(String[] args) {
         int monthNumber = 12;
         if (monthNumber <= 12 && monthNumber >= 0) {

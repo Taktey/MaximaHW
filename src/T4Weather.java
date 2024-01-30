@@ -1,4 +1,4 @@
-public class Weather {
+public class T4Weather {
     public static void main(String[] args) {
         for (int temperature = 0; temperature <= 6; temperature += 6) {
             if (temperature < 5) {

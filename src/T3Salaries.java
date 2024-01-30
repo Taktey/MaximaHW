@@ -1,4 +1,4 @@
-public class Salaries {
+public class T3Salaries {
 
     public static void main(String[] args) {
         class Person {

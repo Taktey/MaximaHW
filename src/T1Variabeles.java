@@ -1,4 +1,4 @@
-public class Variabeles {
+public class T1Variabeles {
     public static void main(String[] args) {
         int intVariable = 1000;
         byte byteVariable = 10;

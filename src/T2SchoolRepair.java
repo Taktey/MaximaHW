@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class SchoolRepair {
+public class T2SchoolRepair {
     public static void main(String[] args) {
         int paintRequiredTotal = 120;
         int paintReqiredWhitePerRoom = 2;
